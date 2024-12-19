@@ -1,2 +1,2 @@
 # PetChain
-Decentralised ResDb based PetCare System
+PetChain is a decentralised blockchain-based platform that redefines the standards of pet care and management. Leveraging the power of Resilient DB, PetChain offers secure and tamper-proof pet identification, seamless health record management, automated insurance claim processing, and hassle-free ownership transfer capabilities. Our innovative lost-and-found feature significantly increases the chances of reuniting lost pets with their families, filling a vital gap in the industry. PetChain empowers pet owners with unparalleled transparency, efficiency, and control, creating a holistic ecosystem that prioritises the well-being and protection of animal companions.
